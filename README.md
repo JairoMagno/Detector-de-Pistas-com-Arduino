@@ -11,5 +11,5 @@ Utilizando a linguagem Python, este script permite ao usuário escolher o tipo d
 ## 3. Análise Estatística (Verificar-Estatisticas)
 Este script realiza o cálculo das médias dos dados coletados para cada tipo de terreno, consolidando as estatísticas em um único script para cada tipo de pista. Esses dados preparados são essenciais para a fase final do projeto.
 
-## 4. Detector de Pistas (Detector-de-Pistas)
+## 4. Detector de Pistas (Detector-Pistas)
 O script principal do projeto, em Arduino (ino), utiliza os dados coletados e as médias calculadas para determinar o tipo de pista em que o veículo está se deslocando. O acelerômetro é novamente empregado para coletar dados na pista desejada pelo usuário, e a correspondência com as médias prévias define o tipo de terreno percorrido pelo carro.
